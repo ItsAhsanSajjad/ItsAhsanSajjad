@@ -1,16 +1,9 @@
-### Hi there 👋
+Hey there! 👋
+I'm Ahsan Sajjad, a Software Engineering graduate (2020-2024) from The Islamia University of Bahawalpur. While studying, I explored different areas of tech, from AI and software development to UI/UX design. Now, I’m on a journey to sharpen my skills and build impactful projects.
 
-I am Ahsan Sajjad, pursuing my Bachelors in Software Engineering from the Islamia University of Bahawalpur
+🚀 What I’m into:
 
-
-
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on small Python projects
-- 🤔 I’m looking for help with DSA, OOP, DBMS
-- 😄 Pronouns: he/him
-
-## &#x1f4c8; My GitHub Stats
-
-[![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsAhsanSajjad&theme=dark)]
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ItsAhsanSajjad&theme=dark)](https://git.io/streak-stats)
+Learning Python, DSA, and OOP to level up my problem-solving skills
+Exploring AI, web, and app development
+Collaborating on open-source and beginner-friendly projects
+I love connecting with like-minded developers, so feel free to reach out! Let’s build something awesome. 💡
