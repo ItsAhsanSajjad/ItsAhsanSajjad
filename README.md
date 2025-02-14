@@ -1,9 +1,10 @@
 Hey there! 👋
-I'm Ahsan Sajjad, a Software Engineering graduate (2020-2024) from The Islamia University of Bahawalpur. While studying, I explored different areas of tech, from AI and software development to UI/UX design. Now, I’m on a journey to sharpen my skills and build impactful projects.
+I’m Ahsan Sajjad, a Software Engineering graduate (2020-2024) from The Islamia University of Bahawalpur. I have a passion for problem-solving, AI, and software development, always looking for new ways to grow and improve.
 
-🚀 What I’m into:
+💡 What I’m working on:
 
-Learning Python, DSA, and OOP to level up my problem-solving skills
-Exploring AI, web, and app development
-Collaborating on open-source and beginner-friendly projects
-I love connecting with like-minded developers, so feel free to reach out! Let’s build something awesome. 💡
+🧩 Solving DSA & LeetCode problems for over 1.5 years, improving my problem-solving abilities and learning new strategies
+🐍 Learning Python, diving deeper into OOP, DSA, and DBMS
+🛠️ Exploring AI, web, and app development
+🤝 Open to collaborating on beginner-friendly projects
+Always up for tech discussions and new challenges. Let’s connect and build something amazing! 🚀
